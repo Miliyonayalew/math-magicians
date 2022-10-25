@@ -13,7 +13,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
- }
+}
 
 .container {
   display: grid;
@@ -27,13 +27,13 @@
   margin: auto;
 }
 
-.container > button {
-  padding: 1.25rem 0;
-  font-size: 1.75rem ;
+button {
+  border: none;
 }
 
-button{
-  border: none;
+.container > button {
+  padding: 1.25rem 0;
+  font-size: 1.75rem;
 }
 
 .display {
@@ -47,7 +47,7 @@ button{
 .btn-end {
   background-color: #ee8434;
   text-align: center;
-  padding-right: .18rem;
+  padding-right: 0.18rem;
 }
 
 .result {
@@ -68,5 +68,4 @@ button{
 
 button:hover {
   cursor: pointer;
- 
 }
