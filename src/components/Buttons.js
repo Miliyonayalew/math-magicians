@@ -11,7 +11,7 @@ const Button = (props) => {
       {values.map((value) => (
         <button
           type="button"
-          className={`${signs.includes(value) ? 'btn-end' : 'btn'}  ${zero.includes(value) ? 'btn-zero' : 'btn'}`}
+          className={`${signs.includes(value) ? 'btn-end' : 'btn'}  ${zero.includes(value) ? 'btn-zero' : ''}`}
           onClick={handleClick}
           key={value}
         >
