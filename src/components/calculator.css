@@ -66,6 +66,14 @@ button {
   text-align: center;
 }
 
+.btn:focus{
+  background-color: #8d99ae;
+}
+.btn-end:focus{
+  background-color: #de5211;
+}
+
 button:hover {
   cursor: pointer;
+  
 }
