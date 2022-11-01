@@ -120,7 +120,7 @@ button:hover {
 }
 
 .navbar > ul > li:nth-child(1),
-li:nth-child(2) {
+.navbar > ul > li:nth-child(2) {
   border-right: 3px solid black;
 }
 
