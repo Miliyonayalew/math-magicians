@@ -77,3 +77,96 @@ button {
 button:hover {
   cursor: pointer;
 }
+
+.d-flex {
+  display: flex;
+}
+
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar__logo {
+  flex-direction: row;
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: none;
+  gap: 0.8rem;
+}
+
+.navbar__logo img {
+  width: 30%;
+  height: 30%;
+  margin-right: 1rem;
+}
+
+.navbar__logo > h1 {
+  font-size: 2rem;
+}
+
+.navbar {
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.9rem;
+  background-color: #ffb600;
+  color: #fff;
+}
+
+.navbar > ul {
+  display: flex;
+  list-style: none;
+  padding: 0.5rem;
+}
+
+.navbar > ul > li {
+  margin-left: 0.5rem;
+}
+
+.navbar > ul > li:nth-child(1),
+.navbar > ul > li:nth-child(2) {
+  border-right: 3px solid #fff;
+}
+
+.navbar > ul > li > a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #fff;
+  padding: 0.8em;
+}
+
+.navbar > ul > li > a:hover {
+  text-decoration: underline;
+}
+
+.home {
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.home > h1 {
+  align-self: flex-start;
+  font-size: 2rem;
+  padding: 2rem;
+}
+
+.home > p {
+  font-size: 1.3rem;
+  padding: 1rem;
+}
+
+.quote {
+  flex-direction: column;
+  height: 80vh;
+  padding: 1rem;
+}
+
+.quote > h1 {
+  padding: 5rem;
+  font-size: 2rem;
+}
+
+.active {
+  text-decoration: underline;
+}
