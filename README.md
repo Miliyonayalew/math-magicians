@@ -15,7 +15,7 @@
 Not available :smile:
 
 ## Live Demo 
-Not available :smile:
+Available [Math-Magician](https://miliyonayalew.github.io/math-magicians/)
 
 ## Getting Started
 To get a local copy up run the following steps.
