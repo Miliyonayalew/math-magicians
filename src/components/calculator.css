@@ -78,11 +78,17 @@ button:hover {
   cursor: pointer;
 }
 
-.navbar__logo {
+.d-flex {
   display: flex;
-  flex-direction: row;
+}
+
+.flex-center {
   justify-content: center;
   align-items: center;
+}
+
+.navbar__logo {
+  flex-direction: row;
   color: #fff;
   font-size: 1.5rem;
   font-weight: 700;
@@ -101,7 +107,6 @@ button:hover {
 }
 
 .navbar {
-  display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0.9rem;
@@ -136,10 +141,7 @@ button:hover {
 }
 
 .home {
-  display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   padding: 1rem;
 }
 
@@ -155,10 +157,7 @@ button:hover {
 }
 
 .quote {
-  display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   height: 80vh;
   padding: 1rem;
 }

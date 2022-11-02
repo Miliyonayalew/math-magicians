@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Home = () => (
-  <div className="home">
+  <div className="home d-flex flex-center">
     <h1>Welcome to our page!</h1>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut

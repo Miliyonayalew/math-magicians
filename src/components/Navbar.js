@@ -19,8 +19,8 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="navbar">
-      <div className="navbar__logo">
+    <nav className="navbar d-flex">
+      <div className="navbar__logo d-flex flex-center">
         <img src={logo} alt="logo" />
         <h1>Math Magicians</h1>
       </div>
