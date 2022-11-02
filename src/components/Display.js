@@ -11,6 +11,10 @@ const Display = (props) => {
 };
 
 Display.propTypes = {
-  result: PropTypes.string.isRequired,
+  result: PropTypes.oneOfType([
+    PropTypes.string,
+    PropTypes.number,
+  ]).isRequired,
 };
+
 export default Display;

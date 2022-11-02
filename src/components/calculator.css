@@ -121,7 +121,7 @@ button:hover {
 
 .navbar > ul > li:nth-child(1),
 .navbar > ul > li:nth-child(2) {
-  border-right: 3px solid black;
+  border-right: 3px solid #fff;
 }
 
 .navbar > ul > li > a {
@@ -166,4 +166,8 @@ button:hover {
 .quote > h1 {
   padding: 5rem;
   font-size: 2rem;
+}
+
+.active {
+  text-decoration: underline;
 }
