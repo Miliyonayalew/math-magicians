@@ -17,7 +17,7 @@ describe('operate test', () => {
   });
 
   it('should return 1', () => {
-    const result = Operate(3, 3, '/');
+    const result = Operate(3, 3, '÷');
     expect(result).toBe('1');
   });
 });
