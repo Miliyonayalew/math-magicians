@@ -38,15 +38,23 @@ To get a local copy up run the following steps.
   - A new browser will open automatically by using this address [http://localhost:3000](http://localhost:3000) 
   
   -  The page will reload when you make changes.
+  
+# Run tests
+  - Run `npm test`
 
-
-## Author
+## Authors
 
 👤 **Miliyon Ayalew**
 
 - GitHub: [@Miliyonayalew](https://github.com/Miliyonayalew/)
 - Twitter: [@MilaAyalew](https://twitter.com/MilaAyalew)
 - LinkedIn: [@miliyon-ayalew](https://www.linkedin.com/in/miliyon-ayalew-210808131/)
+
+👤 **Koami NOGBEDJI**
+
+- GitHub: [@hopeforkoami](https://github.com/hopeforkoami)
+- Twitter: [@hopeforkoami](https://twitter.com/@hopeforkoami)
+- LinkedIn: [@hopeforkoami](https://www.linkedin.com/in/@hopeforkoami/)
 
 
 ## 🤝 Contributing
