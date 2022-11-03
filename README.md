@@ -15,7 +15,7 @@
 Not available :smile:
 
 ## Live Demo 
-Available [Math-Magician](https://miliyonayalew.github.io/math-magicians/)
+Available [Math-Magician](https://stately-moonbeam-331ae3.netlify.app/#/)
 
 ## Getting Started
 To get a local copy up run the following steps.
