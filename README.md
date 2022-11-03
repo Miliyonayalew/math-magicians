@@ -35,7 +35,7 @@ To get a local copy up run the following steps.
 
   - Run `npm start`
   
-  - A new browser will open automatically by using this address [http://localhost:3000](http://localhost:3000) 
+  - A new browser will open automatically by using this address [http://localhost:3000](https://stately-moonbeam-331ae3.netlify.app/#/) 
   
   -  The page will reload when you make changes.
   
