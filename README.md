@@ -12,7 +12,9 @@
 - GitFlow
   
 ## Website Mockup 📱 💻 🖥️
-Not available :smile:
+Available :smile:
+![](src/assests/mock/mock.png)
+![](src/assests/mock/mock.gif)
 
 ## Live Demo 
 Available [Math-Magician](https://stately-moonbeam-331ae3.netlify.app/#/)
